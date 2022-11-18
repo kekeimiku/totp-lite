@@ -3,4 +3,4 @@ fn_call_width = 100
 attr_fn_like_width = 90
 imports_granularity = "Crate"
 struct_lit_single_line = true
-struct_lit_width = 50
+struct_lit_width = 80

@@ -1,6 +1,6 @@
 [package]
 name = "totp-lite"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["kk <kekelanact@gmail.com>"]
 keywords = ["TOTP", "RFC 6238"]
@@ -15,10 +15,6 @@ default-features = false
 
 [dependencies.sha2]
 version = "0.10.6"
-default-features = false
-
-[dependencies.fastrand]
-version = "1.8.0"
 default-features = false
 
 [dependencies.base32]
